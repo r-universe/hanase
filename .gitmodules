@@ -8,3 +8,43 @@
 	url = https://github.com/hanase/bma
 	shallow = true
 	registered = true
+[submodule "covRobust"]
+	path = covRobust
+	url = https://github.com/hanase/covrobust
+	shallow = true
+	registered = true
+[submodule "demogR"]
+	path = demogR
+	url = https://github.com/hanase/demogr
+	shallow = true
+	registered = true
+[submodule "dma"]
+	path = dma
+	url = https://github.com/hanase/dma
+	shallow = true
+	registered = true
+[submodule "fractaldim"]
+	path = fractaldim
+	url = https://github.com/hanase/fractaldim
+	shallow = true
+	registered = true
+[submodule "mlogitBMA"]
+	path = mlogitBMA
+	url = https://github.com/hanase/mlogitbma
+	shallow = true
+	registered = true
+[submodule "rlecuyer"]
+	path = rlecuyer
+	url = https://github.com/hanase/rlecuyer
+	shallow = true
+	registered = true
+[submodule "snowFT"]
+	path = snowFT
+	url = https://github.com/hanase/snowft
+	shallow = true
+	registered = true
+[submodule "vote"]
+	path = vote
+	url = https://github.com/hanase/vote
+	shallow = true
+	registered = true

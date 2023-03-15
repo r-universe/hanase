@@ -2,5 +2,37 @@
   {
     "package": "BMA",
     "oncran": true
+  },
+  {
+    "package": "covRobust",
+    "oncran": true
+  },
+  {
+    "package": "demogR",
+    "oncran": true
+  },
+  {
+    "package": "dma",
+    "oncran": true
+  },
+  {
+    "package": "fractaldim",
+    "oncran": true
+  },
+  {
+    "package": "mlogitBMA",
+    "oncran": true
+  },
+  {
+    "package": "rlecuyer",
+    "oncran": true
+  },
+  {
+    "package": "snowFT",
+    "oncran": true
+  },
+  {
+    "package": "vote",
+    "oncran": true
   }
 ]
