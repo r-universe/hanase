@@ -1,105 +1,64 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "bayesLife"]
 	path = bayesLife
 	url = https://github.com/cran/bayesLife
-	shallow = true
-	registered = true
 [submodule "bayesPop"]
 	path = bayesPop
 	url = https://github.com/cran/bayesPop
-	shallow = true
-	registered = true
 [submodule "bayesTFR"]
 	path = bayesTFR
 	url = https://github.com/cran/bayesTFR
-	shallow = true
-	registered = true
 [submodule "BMA"]
 	path = BMA
 	url = https://github.com/hanase/bma
-	shallow = true
-	registered = true
 [submodule "covRobust"]
 	path = covRobust
 	url = https://github.com/hanase/covrobust
-	shallow = true
-	registered = true
 [submodule "demogR"]
 	path = demogR
 	url = https://github.com/hanase/demogr
-	shallow = true
-	registered = true
 [submodule "dma"]
 	path = dma
 	url = https://github.com/hanase/dma
-	shallow = true
-	registered = true
 [submodule "fractaldim"]
 	path = fractaldim
 	url = https://github.com/hanase/fractaldim
-	shallow = true
-	registered = true
 [submodule "mlogitBMA"]
 	path = mlogitBMA
 	url = https://github.com/hanase/mlogitbma
-	shallow = true
-	registered = true
 [submodule "MortCast"]
 	path = MortCast
 	url = https://github.com/cran/MortCast
-	shallow = true
-	registered = true
 [submodule "rlecuyer"]
 	path = rlecuyer
 	url = https://github.com/hanase/rlecuyer
-	shallow = true
-	registered = true
 [submodule "snowFT"]
 	path = snowFT
 	url = https://github.com/hanase/snowft
-	shallow = true
-	registered = true
 [submodule "vote"]
 	path = vote
 	url = https://github.com/hanase/vote
-	shallow = true
-	registered = true
 [submodule "wpp2008"]
 	path = wpp2008
 	url = https://github.com/cran/wpp2008
-	shallow = true
-	registered = true
 [submodule "wpp2010"]
 	path = wpp2010
 	url = https://github.com/cran/wpp2010
-	shallow = true
-	registered = true
 [submodule "wpp2012"]
 	path = wpp2012
 	url = https://github.com/cran/wpp2012
-	shallow = true
-	registered = true
 [submodule "wpp2015"]
 	path = wpp2015
 	url = https://github.com/cran/wpp2015
-	shallow = true
-	registered = true
 [submodule "wpp2017"]
 	path = wpp2017
 	url = https://github.com/cran/wpp2017
-	shallow = true
-	registered = true
 [submodule "wpp2019"]
 	path = wpp2019
 	url = https://github.com/cran/wpp2019
-	shallow = true
-	registered = true
 [submodule "wppExplorer"]
 	path = wppExplorer
 	url = https://github.com/cran/wppExplorer
-	shallow = true
-	registered = true
