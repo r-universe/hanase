@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "BMA"]
+	path = BMA
+	url = https://github.com/hanase/bma
+[submodule "MortCast"]
+	path = MortCast
+	url = https://github.com/cran/MortCast
 [submodule "bayesLife"]
 	path = bayesLife
 	url = https://github.com/cran/bayesLife
@@ -11,9 +17,6 @@
 [submodule "bayesTFR"]
 	path = bayesTFR
 	url = https://github.com/cran/bayesTFR
-[submodule "BMA"]
-	path = BMA
-	url = https://github.com/hanase/bma
 [submodule "covRobust"]
 	path = covRobust
 	url = https://github.com/hanase/covrobust
@@ -29,9 +32,6 @@
 [submodule "mlogitBMA"]
 	path = mlogitBMA
 	url = https://github.com/hanase/mlogitbma
-[submodule "MortCast"]
-	path = MortCast
-	url = https://github.com/cran/MortCast
 [submodule "rlecuyer"]
 	path = rlecuyer
 	url = https://github.com/hanase/rlecuyer
