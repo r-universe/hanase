@@ -11,6 +11,9 @@
 [submodule "bayesLife"]
 	path = bayesLife
 	url = https://github.com/cran/bayesLife
+[submodule "bayesMig"]
+	path = bayesMig
+	url = https://github.com/cran/bayesMig
 [submodule "bayesPop"]
 	path = bayesPop
 	url = https://github.com/cran/bayesPop
